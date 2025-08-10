@@ -137,10 +137,6 @@ The bot includes pre-configured coordinates for major cities worldwide and can a
 
 **Important**: This bot uses discord.js-selfbot-v13, which automates user accounts. Using self-bots may violate Discord's Terms of Service. This project is for educational purposes only. Use at your own risk.
 
-## License
-
-This project is provided as-is for educational purposes. Please ensure compliance with Discord's Terms of Service and API usage guidelines.
-
 ## Support
 
 If you encounter issues:
