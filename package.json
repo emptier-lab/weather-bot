@@ -1,0 +1,40 @@
+{
+  "name": "discord-weather-radar-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that provides real-time animated weather radar displays using meteorological data",
+  "main": "weather.js",
+  "scripts": {
+    "start": "node weather.js",
+    "dev": "node weather.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "weather",
+    "radar",
+    "bot",
+    "meteorology",
+    "precipitation",
+    "real-time",
+    "animation",
+    "selfbot",
+    "discord.js"
+  ],
+  "author": "empty?",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.7.0",
+    "axios": "^1.9.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/discord-weather-radar-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/discord-weather-radar-bot/issues"
+  },
+  "homepage": "https://github.com/yourusername/discord-weather-radar-bot#readme"
+}
