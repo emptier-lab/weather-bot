@@ -20,6 +20,8 @@ The bot creates a large animated radar display split across multiple Discord mes
 - Temperature, precipitation rate, and wind speed
 - Location and timestamp information
 
+![Weather Radar Demo](./images/example.png)
+
 ## Installation
 
 1. **Clone the repository**:
