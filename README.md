@@ -25,7 +25,7 @@ The bot creates a large animated radar display split across multiple Discord mes
 1. **Clone the repository**:
 
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/emptier-lab/weather-bot.git>
    cd discord-scripts
    ```
 
